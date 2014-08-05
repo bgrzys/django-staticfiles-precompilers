@@ -10,5 +10,6 @@ django_staticfiles_precompilers.egg-info/top_level.txt
 staticfiles_precompilers/__init__.py
 staticfiles_precompilers/conf.py
 staticfiles_precompilers/models.py
+staticfiles_precompilers/finders.py
 staticfiles_precompilers/templatetags/__init__.py
 staticfiles_precompilers/templatetags/staticfiles.py
